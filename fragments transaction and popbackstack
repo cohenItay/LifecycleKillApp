@@ -1,0 +1,29 @@
+2019-07-14 19:49:58.259 25025-25025/com.yit.viewmodeltest D/qwe:   activity onCreate: 
+2019-07-14 19:49:58.362 25025-25025/com.yit.viewmodeltest D/qwe:   activity onStart: 
+2019-07-14 19:49:58.363 25025-25025/com.yit.viewmodeltest D/qwe:   activity onResume: 
+2019-07-14 19:50:02.738 25025-25025/com.yit.viewmodeltest D/qwe:       F1 onAttach: 
+2019-07-14 19:50:02.738 25025-25025/com.yit.viewmodeltest D/qwe:       F1 oncreate: 
+2019-07-14 19:50:02.784 25025-25025/com.yit.viewmodeltest D/qwe:       F1 onViewCreated: 
+2019-07-14 19:50:02.785 25025-25025/com.yit.viewmodeltest D/qwe:       F1 onActivityCreated: 
+2019-07-14 19:50:02.785 25025-25025/com.yit.viewmodeltest D/qwe:       F1 onViewstaterestored: 
+2019-07-14 19:50:02.785 25025-25025/com.yit.viewmodeltest D/qwe:       F1 onstart: 
+2019-07-14 19:50:02.785 25025-25025/com.yit.viewmodeltest D/qwe:       F1 observer: Itay
+2019-07-14 19:50:02.785 25025-25025/com.yit.viewmodeltest D/qwe:       F1 onresume: 
+2019-07-14 19:50:03.633 25025-25025/com.yit.viewmodeltest D/qwe:         F2 onAttach: 
+2019-07-14 19:50:03.634 25025-25025/com.yit.viewmodeltest D/qwe:         F2 oncreate: 
+2019-07-14 19:50:03.635 25025-25025/com.yit.viewmodeltest D/qwe:       F1 onpause: 
+2019-07-14 19:50:03.635 25025-25025/com.yit.viewmodeltest D/qwe:       F1 onstop: 
+2019-07-14 19:50:03.646 25025-25025/com.yit.viewmodeltest D/qwe:       F2 onViewCreated: 
+2019-07-14 19:50:03.647 25025-25025/com.yit.viewmodeltest D/qwe:         F2 onActivityCreated: 
+2019-07-14 19:50:03.647 25025-25025/com.yit.viewmodeltest D/qwe:         F2 onViewstaterestored: 
+2019-07-14 19:50:03.647 25025-25025/com.yit.viewmodeltest D/qwe:         F2 onstart: 
+2019-07-14 19:50:03.647 25025-25025/com.yit.viewmodeltest D/qwe:         F2 onresume: 
+2019-07-14 19:50:10.428 25025-25025/com.yit.viewmodeltest D/qwe:         F2 onpause: 
+2019-07-14 19:50:10.429 25025-25025/com.yit.viewmodeltest D/qwe:         F2 onstop: 
+2019-07-14 19:50:10.431 25025-25025/com.yit.viewmodeltest D/qwe:         F2 ondestroy: 
+2019-07-14 19:50:10.442 25025-25025/com.yit.viewmodeltest D/qwe:       F1 onViewCreated: 
+2019-07-14 19:50:10.442 25025-25025/com.yit.viewmodeltest D/qwe:       F1 onActivityCreated: 
+2019-07-14 19:50:10.443 25025-25025/com.yit.viewmodeltest D/qwe:       F1 onViewstaterestored: 
+2019-07-14 19:50:10.443 25025-25025/com.yit.viewmodeltest D/qwe:       F1 onstart: 
+2019-07-14 19:50:10.443 25025-25025/com.yit.viewmodeltest D/qwe:       F1 observer: Itay
+2019-07-14 19:50:10.443 25025-25025/com.yit.viewmodeltest D/qwe:       F1 onresume: 
