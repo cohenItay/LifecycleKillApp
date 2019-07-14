@@ -1,0 +1,27 @@
+2019-07-14 19:31:33.657 22413-22413/com.yit.viewmodeltest D/qwe:   activity onCreate: 
+2019-07-14 19:31:33.767 22413-22413/com.yit.viewmodeltest D/qwe:   activity onStart: 
+2019-07-14 19:31:33.769 22413-22413/com.yit.viewmodeltest D/qwe:   activity onResume: 
+2019-07-14 19:31:37.111 22413-22413/com.yit.viewmodeltest D/qwe: onAttach: 
+2019-07-14 19:31:37.111 22413-22413/com.yit.viewmodeltest D/qwe: oncreate: 
+2019-07-14 19:31:37.160 22413-22413/com.yit.viewmodeltest D/qwe: onActivityCreated: 
+2019-07-14 19:31:37.160 22413-22413/com.yit.viewmodeltest D/qwe: onViewstaterestored: 
+2019-07-14 19:31:37.160 22413-22413/com.yit.viewmodeltest D/qwe: onstart: 
+2019-07-14 19:31:37.161 22413-22413/com.yit.viewmodeltest D/qwe: observer: Itay
+2019-07-14 19:31:37.161 22413-22413/com.yit.viewmodeltest D/qwe: onresume: 
+2019-07-14 19:31:39.323 22413-22413/com.yit.viewmodeltest D/qwe: onpause: 
+2019-07-14 19:31:39.324 22413-22413/com.yit.viewmodeltest D/qwe:   activity onPause: 
+2019-07-14 19:31:39.351 22413-22413/com.yit.viewmodeltest D/qwe: onstop: 
+2019-07-14 19:31:39.352 22413-22413/com.yit.viewmodeltest D/qwe:   activity onstop
+2019-07-14 19:31:39.413 22413-22413/com.yit.viewmodeltest D/qwe: ondestroy: 
+2019-07-14 19:31:39.414 22413-22413/com.yit.viewmodeltest D/qwe:   activity ondestroy: 
+2019-07-14 19:31:43.868 22413-22413/com.yit.viewmodeltest D/qwe: onAttach: 
+2019-07-14 19:31:43.868 22413-22413/com.yit.viewmodeltest D/qwe: oncreate: 
+2019-07-14 19:31:43.869 22413-22413/com.yit.viewmodeltest D/qwe:   activity onCreate: 
+2019-07-14 19:31:43.913 22413-22413/com.yit.viewmodeltest D/qwe: onActivityCreated: 
+2019-07-14 19:31:43.913 22413-22413/com.yit.viewmodeltest D/qwe: onViewstaterestored: 
+2019-07-14 19:31:43.914 22413-22413/com.yit.viewmodeltest D/qwe: onstart: 
+2019-07-14 19:31:43.914 22413-22413/com.yit.viewmodeltest D/qwe: observer: Itay
+2019-07-14 19:31:43.914 22413-22413/com.yit.viewmodeltest D/qwe:   activity onStart: 
+2019-07-14 19:31:43.915 22413-22413/com.yit.viewmodeltest D/qwe:   activity onRestoreInstanceState: 
+2019-07-14 19:31:43.917 22413-22413/com.yit.viewmodeltest D/qwe:   activity onResume: 
+2019-07-14 19:31:43.917 22413-22413/com.yit.viewmodeltest D/qwe: onresume: 
